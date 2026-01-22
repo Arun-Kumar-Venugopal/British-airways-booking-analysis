@@ -66,7 +66,7 @@ This project was completed as part of the **British Airways Data Science Virtual
 - Flight timing and booking origin influence customer decisions
 - Ancillary preferences have lower impact compared to planning behaviour
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
