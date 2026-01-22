@@ -60,7 +60,7 @@ This project was completed as part of the **British Airways Data Science Virtual
 
 ---
 
-### Results Summary
+## Results Summary
 - The model highlights planning-related factors (purchase lead time, length of stay) as the strongest drivers of booking completion.
 - While recall for booked customers is low, the analysis provides valuable directional insights into customer behaviour.
 
